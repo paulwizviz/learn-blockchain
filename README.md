@@ -13,6 +13,13 @@ Future projects to be included are:
 * Fabric
 * more to be determined
 
+## My blogs about blockchain use cases
+
+* [Public v. Permissioned Blockchains](https://medium.com/blockchaintp/public-versus-permissioned-blockchains-b0720fe21a33)
+* [From fish to sushi in UTXO](https://medium.com/@paul_25993/from-fish-to-sushi-in-utxo-20fa95e19a0a)
+* [What are the differences between Ethereum, Hyperledger Fabric and Hyperledger Sawtooth?](https://medium.com/coinmonks/what-are-the-differences-between-ethereum-hyperledger-fabric-and-hyperledger-sawtooth-5d0fc279d862)
+* [Blockchain and Food Traceability](https://medium.com/@paul_25993/blockchain-and-food-traceability-846c32a55d7b)
+
 ## Reference materials
 
 These are some useful references related to blockchain technologies.
