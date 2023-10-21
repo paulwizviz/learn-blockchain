@@ -32,6 +32,7 @@ Welcome to my collection of educational references and projects created by me on
     * [What is Proof of Reserves in Crypto & How it Actually Works (Animated)](https://www.youtube.com/watch?v=qzWT0JAyBIc)
 
 * Proof of Stake
+    * [What is Proof of Stake & How it works (Animated)](https://www.youtube.com/watch?v=HjovHCq4wK4)
     * [What is Delegated Proof of Stake & How it Actually Works (Animated)](https://www.youtube.com/watch?v=nd40wO2FgFk)
 
 * Proof-of-Work
