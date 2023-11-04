@@ -49,6 +49,7 @@ Welcome to my collection of educational references and projects created by me on
 
 * [Learn Ethereum](https://github.com/paulwizviz/learn-ethereum) -- my analysis of the inner workings of Ethereum, principally Geth).
 * [Tendermint](https://github.com/paulwizviz/learn-tendermint) -- my attempt at learning to code with Tendermint
+* [Bitcoin](https://github.com/paulwizviz/learn-bitcoin) -- my analysis of all things related to bitcoin
 * more to be determined
 
 
