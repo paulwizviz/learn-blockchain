@@ -25,6 +25,10 @@ Welcome to my collection of educational references and projects created by me on
 * Proof-of-Authority
     * [What is Proof of Authority & How it Actually Works (Animated)](https://www.youtube.com/watch?v=uLPjWeAZ47g)
 
+* Proof of Elapsed Time (PoET)
+
+Each node in the network randomly generate time duration from a trusted hardware chip and each waits until the generated time elapsed. The first node to have its time elapsed has the right to mine a block. 
+
 * Proof of History
     * [What is Proof of History & How it Actually Works (Animated)](https://www.youtube.com/watch?v=A5G_FJpzKtk)
 
