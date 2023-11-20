@@ -22,6 +22,10 @@ Welcome to my collection of educational references and projects created by me on
     * [#4: Voting-based](https://www.youtube.com/watch?v=HgaG6Vtv1zc)
     * [#5: Virtual-voting](https://www.youtube.com/watch?v=rleAZVVA3kM)
 
+* Directed Acyclic Graph
+ 
+    * [Direct Acyclic Graph (DAG) Based Consensus Protocols: An Introduction | a16z crypto research talks](https://www.youtube.com/watch?v=v7h2rXNtrV0)
+
 * Proof-of-Authority
     * [What is Proof of Authority & How it Actually Works (Animated)](https://www.youtube.com/watch?v=uLPjWeAZ47g)
 
