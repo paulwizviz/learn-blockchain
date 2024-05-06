@@ -6,7 +6,7 @@ The goal of consensus is for distributed (or decentralized) and replicated state
 
 For illustration of the concept behind consensus, see Heidi Howard eductional video titled [Consensus and & Organising Coffee](https://www.youtube.com/watch?v=jn3DBzr--Ok)
 
-## Design Considerations
+## Concepts
 
 The key considerations when designing consensus algorithm are summed in two thought experiments:
 
@@ -17,7 +17,7 @@ The two generals experiment illustrates the challenges of ensuring reliable comm
 
 The three generals experiment illustrates the problem when there are more than two entities co-ordinating actions with each other where some entities could go rouge -- i.e. deliberately deceive others. 
 
-## Implementation
+## Types of Consensus Algorithm
 
 According to Dr. Leemon Baird, there are five types of algorithms:
 
@@ -72,3 +72,7 @@ Each node in the network randomly generate time duration from a trusted hardware
 ### Proof-of-Work
 
 * [What is Proof of Work (Animated)](https://www.youtube.com/watch?v=ZTkuleUJV0M)
+
+### Tendermint BFT
+
+This topic is covered in my other Github repo [learn-cosmos](https://github.com/paulwizviz/learn-cosmos)
