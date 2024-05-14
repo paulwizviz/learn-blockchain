@@ -1,6 +1,6 @@
 # Overvew
 
-Welcome to my collection of educational references and references to working examples about all things related to blockchain.
+Welcome to my collection of educational references about all things related to blockchain.
 
 ## Topics
 
