@@ -1,11 +1,12 @@
 # Overvew
 
-Welcome to my collection of educational references and working examples on all things related to blockchain.
+Welcome to my collection of educational references and references to working examples about all things related to blockchain.
 
 ## Topics
 
-* [Discussion of consensus](./docs/consensus.md)
+* [Consensus](./docs/consensus.md)
 * Blockchain technologies:
     * [Bitcoin](https://github.com/paulwizviz/learn-bitcoin)
     * [Cosmos](https://github.com/paulwizviz/learn-cosmos)
     * [Learn Ethereum](https://github.com/paulwizviz/learn-ethereum)
+* [Peer-to-peer networking](./docs/p2p.md)
