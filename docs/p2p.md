@@ -2,6 +2,7 @@
 
 * [Overview](#overview)
 * [Libp2p](#libp2p)
+* [Gossip Protocol](#gossip-protocol)
 
 ## Overview
 
@@ -20,3 +21,7 @@ The key characteristics of a P2P architecture are:
 ## Libp2p
 
 * [Intro to libp2p with Filecoin](https://www.youtube.com/watch?v=7OZLImVRvro)
+
+## Gossip Protocol
+
+* [Parallel & Distributed Computing - Gossip Protocol](https://www.youtube.com/watch?v=qJpPjzg44R8)
