@@ -10,6 +10,6 @@ Welcome to my collection of educational references about all things related to b
     * Cosmos
         * SDK
         * [tendermint](https://github.com/paulwizviz/learn-tendermint)
-    * Ethereum
-        * [Go Ethereum Application](https://github.com/paulwizviz/go-eth-app)
+    * [Ethereum](https://github.com/paulwizviz/learn-ethereum)
+        * [Go Ethereum dApp/Web3 application](https://github.com/paulwizviz/go-eth-app)
 * [Peer-to-peer networking](./docs/p2p.md)
