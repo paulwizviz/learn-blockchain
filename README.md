@@ -12,6 +12,7 @@ Welcome to my collection of educational references about all things related to b
         * [tendermint](https://github.com/paulwizviz/learn-tendermint)
     * [Ethereum](https://github.com/paulwizviz/learn-ethereum)
         * [Go Ethereum dApp/Web3 application](https://github.com/paulwizviz/go-eth-app)
-    * [Hyperledger Fabric](https://github.com/paulwizviz/learn-fabric)
     * [Hedera](https://github.com/paulwizviz/learn-hedera.git)
+        * [Go Hedera Application](https://github.com/paulwizviz/go-hedera-app)
+    * [Hyperledger Fabric](https://github.com/paulwizviz/learn-fabric)
 * [Peer-to-peer networking](./docs/p2p.md)
