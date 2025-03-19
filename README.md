@@ -1,6 +1,8 @@
 # Overvew
 
-Welcome to my collection of educational references about all things related to blockchain.
+This repository references to working examples and learning materials related to Blockchain.
+
+The artefaces were drawn from these [CONTRIBUTOR](./CONTRIBUTORS).
 
 ## Topics
 
@@ -16,3 +18,7 @@ Welcome to my collection of educational references about all things related to b
         * [Go Hedera Application](https://github.com/paulwizviz/go-hedera-app)
     * [Hyperledger Fabric](https://github.com/paulwizviz/learn-fabric)
 * [Peer-to-peer networking](./docs/p2p.md)
+
+## Disclaimer
+
+The content in this project is intended for educational purpose only. It is constantly updated, items my be removed, and modified without warning.
